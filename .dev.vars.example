@@ -1,0 +1,3 @@
+NEXTJS_ENV=production
+# Copy server-only variables from .env.local here for Wrangler local preview.
+# Configure production secrets separately with wrangler secret put.
